@@ -1,0 +1,18 @@
+body {
+    background-image: url("/imag/background1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+    text-align: center;
+    overflow-y: hidden;
+}
+
+
+/*footer {*/
+/*    position: absolute !important;*/
+/*    bottom: 0;*/
+/*    left: 0;*/
+/*    width: 100%;*/
+/*    margin: 0!important;*/
+/*    padding: 0!important;*/
+/*}*/
